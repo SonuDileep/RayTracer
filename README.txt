@@ -1,0 +1,4 @@
+#Sonu Dileep
+
+To compile, simply use 'make'. To run it: "./raytracer driver##.txt driver##.ppm"
+
